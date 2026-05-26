@@ -1,1 +1,0 @@
-# ScanMate-AI-V3
