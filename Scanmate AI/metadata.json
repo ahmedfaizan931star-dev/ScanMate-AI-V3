@@ -1,0 +1,13 @@
+{
+  "name": "ScanMate AI Pro",
+  "description": "A premium offline-safe Android document scanner and assistant with optional user-key Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "CAMERA_SCAN",
+    "MLKIT_OCR",
+    "QR_BARCODE",
+    "PDF_EXPORT",
+    "ZIP_BACKUP",
+    "OPTIONAL_USER_KEY_GEMINI"
+  ]
+}
